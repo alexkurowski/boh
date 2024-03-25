@@ -5110,12 +5110,21 @@
     reverse = -(+reverse || -1);
     tr = tr.sort(function (a, b) {
       // sort rows
-      return (
-        reverse * // `-1 *` if want opposite order
-        a.cells[col].textContent
-          .trim() // using `.textContent.trim()` for test
-          .localeCompare(b.cells[col].textContent.trim())
-      );
+      var valA = a.cells[col].textContent.trim() || '0';
+      var valB = b.cells[col].textContent.trim() || '0';
+      var isNumeric = parseInt(valA) == valA;
+
+      if (isNumeric) {
+        return (
+          reverse * // `-1 *` if want opposite order
+          (parseInt(valA) - parseInt(valB))
+        );
+      } else {
+        return (
+          reverse * // `-1 *` if want opposite order
+          valA.localeCompare(valB)
+        );
+      }
     });
     for (i = 0; i < tr.length; ++i) tb.appendChild(tr[i]); // append each row in order
   }
