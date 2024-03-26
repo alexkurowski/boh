@@ -1,0 +1,1124 @@
+{
+  "elements": [
+    {
+      "ID": "t.thesunsdesign",
+      "Desc": "A scorched slab of black corundum, minutely scratched on every side with intricate ideoglyphs. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: the Paths of the Sun</b> (<sprite name=forge> 5, <sprite name=knock> 5, <sprite name=lantern> 5 )]</i>"
+    },
+    {
+      "ID": "t.thesundisfigured",
+      "Desc": "A scroll of anthropoderm parchment, written in the golden ink called Uzult. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: the Sun's Weakness</b> (<sprite name=grail> 5, <sprite name=lantern> 5, <sprite name=moth> 5 )]</i>"
+    },
+    {
+      "ID": "t.towardsafundamentalaesthetic",
+      "Desc": "Or, 'The House of Glass'. Julian Coseley considered this his masterwork. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: Inescapable Confinement</b> (<sprite name=knock> 5, <sprite name=scale> 5, <sprite name=winter> 5 )]</i>"
+    },
+    {
+      "ID": "t.towardsafundamentalaestheticsecondedition",
+      "Desc": "Or, 'The Refinements of Light'. Julian Coseley had never wanted or expected to write a second edition of his masterwork... [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: a Final Understanding</b> (<sprite name=rose> 5, <sprite name=sky> 5, <sprite name=winter> 5 )]</i>"
+    },
+    {
+      "ID": "t.thewritingonthewall",
+      "Desc": "The most delicious traditions of the Carapace Cross, as recorded on the walls of the Mansus and transcribed into a book of ninety-nine pages by one known only as 'cc'. Although this book does not exist, it is read to a sleeper under certain very specific circumstances - and certain fragments jotted down on waking. [This 'book' houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: an Irresistible Feast</b> (<sprite name=edge> 5, <sprite name=grail> 5, <sprite name=nectar> 5 )]</i>"
+    },
+    {
+      "ID": "t.achildstreasuryofgoldenafternoons",
+      "Desc": "Once upon a time, a very bad man encoded very bad secrets into the charming illustrations of a book of charming stories. Wake the pictures, and you will see. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: Merciless Alteration</b> (<sprite name=edge> 5, <sprite name=forge> 5, <sprite name=grail> 5 )]</i>"
+    },
+    {
+      "ID": "t.kopralithomphalos",
+      "Desc": "What is this? A tufted fossil of silken fibre, big as a child. [This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: Weaving the World</b> (<sprite name=heart> 5, <sprite name=moon> 5, <sprite name=nectar> 5 )]</i>"
+    },
+    {
+      "ID": "t.theturquoisehand",
+      "Desc": "A calligraphic manual of Ramsund which employs as exemplar-text Farid ud-Din's 'Conference of the Birds'. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: That Old Lost Music</b> (<sprite name=rose> 5, <sprite name=scale> 5, <sprite name=sky> 5 )]</i>"
+    },
+    {
+      "ID": "t.theskyinthescar",
+      "Desc": "Gnomic exhortations that might be described as 'emergency procedures' for the return of the travelling kinds of the Carapace Cross. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: Back Into Balance</b> (<sprite name=heart> 5, <sprite name=sky> 5, <sprite name=winter> 5 )]</i>"
+    },
+    {
+      "ID": "t.shuriticbookofsuns",
+      "Desc": "A radically different text from any of the other versions of the Book of Suns, attributed to Hagar, Queen of Shur, Mother of Wolves. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: the Great Counterfeit</b> (<sprite name=lantern> 5, <sprite name=moon> 5, <sprite name=nectar> 5 )]</i>"
+    },
+    {
+      "ID": "t.amiranisbeteli",
+      "Desc": "A fragment of iron-alloy meteorite carefully inscribed and polished. [This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: the Bells of Ys</b> (<sprite name=edge> 5, <sprite name=forge> 5, <sprite name=rose> 5 )]</i>"
+    },
+    {
+      "ID": "t.serpentroot",
+      "Desc": "A mass of root-stock, shiny with age but still somehow viable.Tiny spidery scratchings, marked with embedded egg-shell shards, encode a cryptic message. [This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: Loopholes</b> (<sprite name=knock> 5, <sprite name=moon> 5, <sprite name=moth> 5 )]</i>"
+    },
+    {
+      "ID": "t.thethreeandthethreestchiavimanuscript",
+      "Desc": "This book describes the operations of the Chancel and the Calyptra, two triads of Hours with subtle, far-reaching powers and responsibilities. Of all the extant versions, this one has best survived the interventions of the Calyptra. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]\r\n\r\n<i>[Upon reading gives <b>Numen: Three Rules</b> (<sprite name=heart> 5, <sprite name=moth> 5, <sprite name=scale> 5 )]</i>"
+    },
+    {
+      "ID": "t.thelocksmithsdreamstolenreflections",
+      "Desc": "The fourth volume of Teresa Galmier's expansive work - no longer a discussion of the dreams of artisans, but a valuable survey of other works. The tone is calmer than that of 'Trespasses', but occasionally fearful, even paranoid. This volume was published in 1926 but almost immediately recalled and pulped by the publisher - at the request of the author or possibly the authorities, depending which story you believe. A few copies survive.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thelocksmithsdreamincursus",
+      "Desc": "The fifth (and final?) volume of Teresa Galmier's notorious work, which began as an examination of parallels in the mystic dreams of artisans but became an account of her own occult journey. This volume was never published nor, apparently, even written.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.thefallencross",
+      "Desc": "In which Julian Coseley, magus, immortal, occasional anarchist, argues that through language the Carapace Cross decayed to seed the lives of our ancestors.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.kitlingripeandthemoldywarpsgraveandotherstories",
+      "Desc": "A lusciously illustrated tome of loosely connected children's stories. Few of them are remotely suitable for children.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.raptintheking",
+      "Desc": "Detailed accounts of secret bacchanals and ecstatic dances observed in necropolises and graveyards in Southern Europe, in Egypt and in Anatolia. The author is a self-confessed ghoul, an eater of buried flesh: he claims to have witnessed the dances while at his feasting.\r\n\r\n<i>[Upon reading gives <b>Earth-Sign</b> (Omen 1, <sprite name=nectar> 2, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thevienneseconundra",
+      "Desc": "Van Driel describes odd events in Vienna - the disappearance of children; epidemics of parasite activity; animal mutilations; nightmares of worms; the activities of a charitable organisation, the New Ligeians, that funds the burial of the poor. She proposes peculiar connections between these activities.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.collectedhushhouselectures",
+      "Desc": "In the 1800s, Dr Arun Peel was invited to give a series of lectures to the Curia. They combine his pithy view of the Histories with his particular brand of unhelpfully ironical insight.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.thedebateofsevencups",
+      "Desc": "'Distillations of Spirit' recorded by an alchemist who identifies himself in the foreword as 'But Sir Thomas Browne's Reflexion.'\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.thetemptationsofarchitecture",
+      "Desc": "The antiquarian and nyctodromist Ambrose Westcott writes of the 'dangers of doors', with particular reference to a house in the bounds named 'Treowen'.\r\n\r\n<i>[Upon reading gives <b>Secret Threshold</b> (<sprite name=knock> 2, <sprite name=rose> 1 )]</i>"
+    },
+    {
+      "ID": "t.thetripledheart",
+      "Desc": "Sacred poems composed in honour of the Hours venerated by the Sisterhood of the Triple Knot.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.thefivelettersonmemory",
+      "Desc": "Julian Coseley's epistolary treatise on 'matters memorial and mnemonic', addressed to his then-friend Claude Hersault, the mystic and antiquarian.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thetwelvelettersonconsequence",
+      "Desc": "Julian Coseley's epistolary treatise on 'what may come after', addressed to his once-friend Claude Hersault, the mystic and antiquarian.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.gospelofnicodemus",
+      "Desc": "An apocryphal account of the works and experiences of the Shepherd Illuminate by one of his supposed companions.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.analmanacofentrances",
+      "Desc": "A handbook of sealed and unsealed byways and shortcuts through the Bounds, compiled by Willem Harries in the 1860s - during his term as Librarian of Hush House.\r\n\r\n<i>[Upon reading gives <b>Secret Threshold</b> (<sprite name=knock> 2, <sprite name=rose> 1 )]</i>"
+    },
+    {
+      "ID": "t.justverse",
+      "Desc": "A rare surviving copy of Christopher Illopoly's notoriously unsuccessful volume of experimental poetry, published in 1912.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookofcinders",
+      "Desc": "Ostensibly an eighteenth-century fireworks manual, but with some exotic ingredient choices and a substantial section on 'teframancy', divination from ashes.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.codexacephali",
+      "Desc": "Sometimes called 'The Book of the Clean Skull'. The book contains accounts of enlightenments available through the gradual, surgical removal of the lobes of the brain.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thehistoryofinks",
+      "Desc": "A legendary grimoire of exotic ink-making lore. The cover and some of the pages, unfortunately are stained and crusted with something more like mucus than ink.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.inthemalleary",
+      "Desc": "A lively account of the creation of each jewel at the world's beginning.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thekerishamportolan",
+      "Desc": "A beautifully illustrated and heavily annotated 'portolan' - a nautical atlas of ports and destinations.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.nixabolix",
+      "Desc": "A grim treatise on 'those feasts that occur, those feasts that are not to be witnessed.'\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.oghkoroghkortissilakoghkor",
+      "Desc": "A surprisingly chatty text by an entity that identifies itself as 'the Excellency Gnathobasis'.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.theradicalmeasure",
+      "Desc": "Manifesto for experimental and dangerous-sounding invocatory poetry, written some time in the nineteenth century by Dr Arun Peel. A notoriously inconsistent and incoherent text, apparently produced in a tearing hurry.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.theradicalmeasureglossed",
+      "Desc": "The original 'Radical Measures' was a manifesto for experimental poetry with occult properties, written in the nineteenth century by Dr Arun Peel. The original is notoriously incoherent - much later, Christopher Illopoly took on the task of editing and glossing it. He has taken some liberties, but the updated version is generally well regarded.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.bookofmiah",
+      "Desc": "An account of the 'five visits of the Desert Wanderer' - probably the Hour called the Vagabond - to the city Miah. She begins as a delighted child - perhaps even a mortal - but things then go badly…\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.theintimationsofskin",
+      "Desc": "Fiendishly complex, weirdly distorted illustrations of 'congress and anatomy' by the haunted visionary painter Niels Frederik Malskær.\r\n\r\n<i>[Upon reading gives <b>Beguiling Melody</b> (Sound 1, <sprite name=grail> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theberrybook",
+      "Desc": "Thirza Blake, seventh librarian of Hush House, talks about fruit. For no other apparent reason but that it was the kind of thing she did, she talks about fruit in the woven language Killasimi.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.sevenshards",
+      "Desc": "The Lionsmith, one of the two great Hours of struggle, broke his sword into seven shards. Natalia Brulleau, fifth Librarian of Hush House, describes the nature of each of those shards, allegorically and otherwise.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thecrossingtonoon",
+      "Desc": "The mystic Garcia Sauri gives a picaresque account of the adventures of Franklin Bancroft, 'Prince of Wines', and Eva Dewulf, 'the Pale Lady', on their way to the hidden island of Noon.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.whatdoesnotbark",
+      "Desc": "Alexander Probst writes warily of ''Calyptra' - a law, principle or society which prevents the dissemination of dangerous knowledge.\r\n\r\n<i>[Upon reading gives <b>Memory: Storm</b> (<sprite name=heart> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.stolenhistories",
+      "Desc": "The agitator and pamphleteer Alexander Sparrow inveighs against the 'monstrous Serpents, Thieves of History.'\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.blacknephrite",
+      "Desc": "One of Valentine Dewulf's dream-journals, in which he records his visions of 'a place that is no place, beneath the house that is no house.'\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.theseadoesnotregret",
+      "Desc": "Ehsan Fekri, one-time Secretary Salvant of the Curia of the Isle - responsible for the Curia's healing efforts - writes of his experiences in Brancrug, and hints at his travels elsewhere.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.twowombsoneheart",
+      "Desc": "A fanciful account by Thirza Blake of the early life of the Twins - their time as mortals before they became Hours or even Long, in a 'dry kingdom beyond the Western Sea' which Thirza suggests might have been ancient Mexico.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.onehundredandeight",
+      "Desc": "Eva Dewulf discurses on the Fifth History, and particularly on those who are said to have 'passed over' from it - the Great Hooded Princes, the Knock-long who ascended under the Mother of Ants but now (so Eva claims) honour the Horned-Axe.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theworlddespoild",
+      "Desc": "Subtitled 'the Flowers in the Waste': a epic poem that presents a medical treatise through allegory. The author is Gideon Dewulf, 5th Baron Brancrug, sometimes unkindly called 'the Cutter'.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.animpertinentvitulation",
+      "Desc": "A book of kitchen-garden techniques and aphrodisiac recipes recorded by Ernestine Peterhans, the 'Iron Seneschale' of Hush House for three generations of Dewulfs.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.cardeasdelights",
+      "Desc": "The third volume of Abbot Geffrey's hypothetical theological dialogues in the Socratic mode.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.theelationsoflimentinus",
+      "Desc": "The second volume of Abbot Geffrey's hypothetical theological debates in the Socratic mode.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.therapturesofforculus",
+      "Desc": "The first volume of Abbot Geffrey's hypothetical theological debates in the Socratic mode.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.snareofthetreecollectedproverbsofauntmopsy",
+      "Desc": "'Once in the Wood, we call a visit. Twice in the Wood, we call a journey. Thrice, we call coming home.'\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.deratioquercuum",
+      "Desc": "In English the title translates roughly as 'the Account of the Oaks'; but this is Nathaniel Darcy-Evers' fascinating, if haphazard, survey of the occult properties of every tree he can find, not just oaks.\r\n\r\n<i>[Upon reading gives <b>Earth-Sign</b> (Omen 1, <sprite name=nectar> 2, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.opusmagnuscaeruleus",
+      "Desc": "Ambrose Westcott used to render the title of this venerable and anonymous work mockingly as 'the Big Blue Business'. A kinder translation would be 'the Great Work in Azure'.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.sunriseawakenings",
+      "Desc": "An uncharacteristically poignant meditation by the Edge-long Twrog of Meirionnydd, who later came to Hush House under a variety of other names, often in search of some sort of fight.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.dehorisbook1",
+      "Desc": "An occasionally coherent catalogue of the secret gods, organised by hour. This is a reprint, but in the original Latin.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.dehorisbook2",
+      "Desc": "In Latin. A nineteenth-century reprint (by the indefatigable Nathaniel Darcy-Evers) of a fourteenth-century Latin translation of a fourth-century work.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.dehorisbook3",
+      "Desc": "In Latin. A nineteenth-century reprint (by the indefatigable Nathaniel Darcy-Evers) of a fourteenth-century Latin translation of a fourth-century work.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.travellingatnightvol1",
+      "Desc": "The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.travellingatnightvol2",
+      "Desc": "The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.travellingatnightvol3",
+      "Desc": "The annotated dream-journals of Christopher Illopoly, sometimes called 'the only readable occultist': literate, entertaining, bewildering.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.thelocksmithsdreamalightthroughthekeyhole",
+      "Desc": "The first volume of Teresa Galmier's examination of parallels in the mystic dreams of artisans.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thelocksmithsdreamportionsandproportions",
+      "Desc": "The second volume of Teresa Galmier's examination of parallels in the mystic dreams of artisans. The frontispiece has been slashed with a razor.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.thelocksmithsdreamtrespasses",
+      "Desc": "The third volume of Teresa Galmier's examination of parallels in the mystic dreams of artisans.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.thesixlettersonnecessity",
+      "Desc": "Warnings and confessions about the cost of the secret arts, addressed to a student by the seventeenth-century magus (and reputed immortal) Julian Coseley\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thevictoryofcrowns",
+      "Desc": "Erratic accounts by 'Arun' of the hunting and consumption of supposed immortals by shadowy assassins. Published in the late nineteenth century.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.anintroductiontohistories",
+      "Desc": "The seventeenth-century mystic and antiquarian Claude Hersault describes divergent incidents in five major Histories.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.onthewhite",
+      "Desc": "Solomon Husher writes, perhaps allegorically, of Winter, and its long slow doomed romance with the Sun. The epigraph is 'Sunset at Noon'.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thehumoursofagentleman",
+      "Desc": "Samuel Savage's satirical comedy, on the intrigues of the ailing, but cunning John Sonne, his mistress Maevelin, her lover Leo, and the upstart Corvino.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.thequeensoftherivers",
+      "Desc": "A surreal contemporary play by the enigmatic Monica Medina, in which the Queens of the Rivers are murdered, one by one.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.apolloandmarsyas",
+      "Desc": "The libretto of a lost opera concerning the contest between Apollo and Marsyas, and its tragic outcome. The librettist is identified only by their initials.\r\n\r\n<i>[Upon reading gives <b>Memory: Storm</b> (<sprite name=heart> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theskeletonsongs",
+      "Desc": "Poems of greedy delight composed by the possibly pseudonymous Arabella Dusk, the rumoured heiress-turned-madam-turned-poetess.\r\n\r\n<i>[Upon reading gives <b>Beguiling Melody</b> (Sound 1, <sprite name=grail> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theorchidtransfigurationsafeast",
+      "Desc": "A compilation of quasi-Rosicrucian allegories, supposedly by Robert Fludd. This is in the original Latin.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.theorchidtransfigurationsnoon",
+      "Desc": "The third volume of a compilation of quasi-Rosicrucian allegories, supposedly by Robert Fludd. This is in the original Latin.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.theorchidtransfigurationsabirth",
+      "Desc": "The second volume of a compilation of quasi-Rosicrucian allegories, supposedly by Robert Fludd. This is in the original Latin.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.debellismurorum",
+      "Desc": "An eighteenth-century epic poem by the pseudonymous 'Solipsistos'.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.onwhatiscontainedbysilver",
+      "Desc": "A dire bestiary of the horrors to be found in mirrors. This is a recent edition of a third century text by 'Poemander'.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse",
+      "Desc": "Descriptions of the 'Asclepian Mysteries', reproduced by one 'Rylee Grese' from - supposedly - a much older text. It's unlikely to be genuine, but it makes a reference to 'The House without Walls and its Wood' right there in the prologue.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.wainscothistories",
+      "Desc": "Subtitled 'Stories from Behind the Walls': a miscellany of non-traditional histories, including battles not generally acknowledged and countries which appear on no map, told in a playful, apparently fictional manner.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.chioneatabydos",
+      "Desc": "A play dealing with the nine-year sojourn of a snow-goddess in the Thracian city of Abydos, by 'Apollo Fireweaver'. In English, published in 1892; purportedly from an older Greek text.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thehightraditionsofthenobleendeavour",
+      "Desc": "A blandly positive work on the Endeavour Club, published by the Endeavour Club. The Club was founded in 1862 but claims to draw from much older traditions.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.theroseofnuriel",
+      "Desc": "A volume of collected teachings of the Sisterhood of the Knot, that arcane-contemplative order that existed in all histories, but in some was very powerful indeed. This was recorded by 'Nuriel', and dedicated to St Tryphon.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.theroseofhypatia",
+      "Desc": "A volume of collected teachings of the Sisterhood of the Knot, that arcane-contemplative order that existed in all histories, but in some was very powerful indeed. This was recorded by 'Hypatia', and dedicated to St Nympha.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.theroseofwaznei",
+      "Desc": "The heretical teachings of a disgraced offshoot of the Sisterhood of the Knot, that arcane-contemplative order that existed in all histories. This was recorded by 'Waznei', and dedicated to St Respicius.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thetreatiseonunderplaces",
+      "Desc": "Herein, the seventeenth-century mystic and antiquarian Claude Hersault describes the 'Bounds' or 'Underplaces' on the borders of dream. He warns that they shift over time.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thewaroftheroads14511551",
+      "Desc": "Willis-Ford describes the War of the Roads, an event in a History other than our own, in detail - from its beginnings as a martial-philosophical dispute between the Dawn and Sunset Roads of alchemy, to a war which ravaged half of Europe.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.sunsetpassages",
+      "Desc": "A miscellany of the funerary prayers, ceremonies and hymns of the Church of the Unconquered Sun, which was ascendant in the Third and Fourth Histories. It schismed during the Intercalate, when the Sun was divided, and has not survived as a significant force.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thegospelofzacchaeus",
+      "Desc": "An extremely heterodox account of the Nazarene Messiah and his works, describing his ascension to the Mansus through the opening of his body.\r\n\r\n<i>[Upon reading gives <b>Memory: A Stolen Secret</b> (<sprite name=knock> 1, <sprite name=moon> 2 )]</i>"
+    },
+    {
+      "ID": "t.onmatthiasandtheamethystimagoloss",
+      "Desc": "An account of an occult romance. A certain Para, son of Aaron, claims to have written this in a single night as part of his initiation into the Damascene branch of the House of Lethe - that order of immortals who rejected their past and future.\r\n\r\n<i>[Upon reading gives <b>Memory: A Stolen Secret</b> (<sprite name=knock> 1, <sprite name=moon> 2 )]</i>"
+    },
+    {
+      "ID": "t.onmatthiasandtheamethystimagotransformation",
+      "Desc": "An account of an occult romance. A certain Iyavogos claims to have written this in a single night as part of his initiation into the Aleppine branch of the House of Lethe - that order of immortals who would not pledge themselves to any Hour.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.onmatthiasandtheamethystimagopursuit",
+      "Desc": "An account of an occult romance. A certain Mek claims to have written this in a single night as part of his initiation into the Theban branch of the House of Lethe - that order of immortals who used the arts of water to conceal themselves.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.bancroftdiaries",
+      "Desc": "Lord Franklin Bancroft was initiated into the arts of the Flowermaker by the 'rose-witch' Fionna Ayrshire. He rose to become a Society provider of occult services and secret pleasures, before his abrupt disappearance in 1790.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates",
+      "Desc": "It's not clear whether 'C.R.O.D', who is identified only by his initials, was in fact an initiate of the Obliviate order of immortal adepts. He wrote in the sixteenth century, after the order - if he is to be believed - had passed the height of its power.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.thedevouredtantra",
+      "Desc": "The diplomat-priest Stanislav John Schaller transcribed this from the library of a Red Long, but his manuscript remains in a private collection in Kerisham.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theceaselesstantra",
+      "Desc": "The avant-garde choreographer Nicholas Keirle supposedly incorporated this Tantra into his menacing ballets.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.theknownunknowntantra",
+      "Desc": "Carlos Garcia Sauri, the ectastic mystic of the Pyrenees, was known to recite this in three languages, though he had never visited the Subcontinent.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.theencirclingtantra",
+      "Desc": "The explorer and entrepreneur T. Everett Duplantis once attempted to plunder the temple where this text was held. His fate is recorded in an appendix.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.theshavenlocktantra",
+      "Desc": "Also known as 'The One Who Has Shaven His Hair'. This, the story goes, is the lore that even the shapechanging Vanaras rejected.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.thetantraofworms",
+      "Desc": "The entomologist Juliana Zawistowski eventually came to insist that this text was written by insects inhabiting a human skin. She never presented evidence for her claim.. There are diagrams. The diagrams are not good to look upon.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookofthecentipede",
+      "Desc": "In the mid 1860s one 'Madam Yi' presented an entertainment based, she claimed, on this book.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.theaccountofkanishkatthespidersdoor",
+      "Desc": "Lok Kahuli, Kanishk's victim and lover, wrote this account, perhaps posthumously.\r\n\r\n<i>[Upon reading gives <b>Memory: A Stolen Secret</b> (<sprite name=knock> 1, <sprite name=moon> 2 )]</i>"
+    },
+    {
+      "ID": "t.thevinzantinscriptions",
+      "Desc": "Everett Vinzant transcribed these from a cliff in Anatolia, where he famously survived a lightning-strike. He died seven years later to the day. His bones, the legend has it, were hot to the touch.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thelarquebinecodex",
+      "Desc": "Christoph Larquebus claimed to have purchased two hand-written copies of the Codex from a family of witches on the shores of the Sea of Marmara. A third was 'given to the Sea'.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms",
+      "Desc": "Hieronymus Pseudo-Hypnerotomachus wrote this furious screed about the sinister influence of the Sisterhood of the Knot on his own Church of the Unconquered Sun.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.themorphycodex",
+      "Desc": "A priestess of the Sisterhood of the Knot claims to have discerned the true meaning of the Thunderskin's birth.\r\n\r\n<i>[Upon reading gives <b>Beguiling Melody</b> (Sound 1, <sprite name=grail> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theleoninetantra",
+      "Desc": "In the most notorious translation of the Leonine Tantra, Ashley Phillips is listed as the translator, but their existence is explicitly denied in the prologue. This confusion is characteristic of books which mention the Great Hooded Princes.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.theincandescenttantra",
+      "Desc": "Michael Blockley, the eccentric iron magnate, was fond of quoting from this tantra. Blockley died in a factory fire.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thethirstingtantra",
+      "Desc": "C.G. Burial, the temperance campaigner, published elements of this in a pamphlet, which had to be withdrawn and destroyed after it became popular\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.theflayedtantra",
+      "Desc": "This Tantra is recorded as being spoken by an enigmatic individual identified as 'Peel', with many of the qualities of the mythological naga. The Flayed Tantra played a notable part in Alexander Sparrow's paranoid pamphleteering.\r\n\r\n<i>[Upon reading gives <b>Memory: Storm</b> (<sprite name=heart> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.thewatchfultantra",
+      "Desc": "Notorious for its involvement in the deaths of Dafyd Jones and Meredith Blaine, two early physicists who each claimed to have the only copy and who ultimately fought a duel over it in 1840\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thetwinserpenttantra",
+      "Desc": "Just before the outbreak of the Great War, 'Alexander Sparrow' - almost certainly a pseudonym - published leaflets claiming the influence of 'Snake Princes' on world affairs. The text called the Twin-Serpent Tantra was his primary inspiration.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.thefirecircletantra",
+      "Desc": "The one known extant copy of this in Western Europe was stolen from the British Library in 1892. One Harvey Hattington confessed to the crime and claimed to have eaten it, with butter and garlic, in a moment of ungovernable whimsy.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.asthesunhiscourse",
+      "Desc": "Joel of the Bridge, a retired soldier and sometime tollkeeper, wrote this epic poem about Alexander's famously inexplicable decision at Issus to withdraw from the war with the Achaemenids, and his subsequent return to Macedonia.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.theconcursumdiaries",
+      "Desc": "The diaries of the explorer and murderer Lars Westergren. He's unhelpfully translated them into Phrygian, for privacy.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.theironbook",
+      "Desc": "A manual of the Ordo Limiae, an order of quasi-immortals who maintained a secret enclave at the source of the river Limia, in the Roman province of Hispania Gallaecia. This manual was compiled by one Melerai Yivni, who claims to have travelled to join the Ordo from 'the Crossroads of the Waters'.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thesilverbook",
+      "Desc": "A manual of the Ordo Limiae, an order of quasi-immortals who maintained a secret enclave at the source of the river Limia, in the Roman province of Hispania Gallaecia. This manual was compiled by one Burzghash, who explains that he came to join the Ordo from the 'city of messenger eagles' after he abandoned the service of the Ivory Dove.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.theivorybook",
+      "Desc": "A manual of the Ordo Limiae, an order of quasi-immortals who maintained a secret enclave at the source of the river Limia, in the Roman province of Hispania Gallaecia. This manual was compiled by one Kurenai, who claims to have fled 'the tyranny of the Chrysanthemum Throne' to cross the world and join the Ordo.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thegeminiadi",
+      "Desc": "A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty, and with all the phases of the moon. It might be as old as the seventh century, but the language - Fucine - is much older. The cover is tooled goatskin decorated with garnet.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.thegeminiadii",
+      "Desc": "A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty, and with all the phases of the moon. It might be as old as the seventh century, but the language - Fucine - is much older. The cover is a dark and exotic leather with a smooth, almost chitinous surface, decorated with jasper.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.thegeminiadiii",
+      "Desc": "A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty, and with all the phases of the moon. It might be as old as the seventh century, but the language - Fucine - is much older. Coral decorates its cover, and its page-edges are sharp enough to slash a throat.\r\n\r\n<i>[Upon reading gives <b>Beguiling Melody</b> (Sound 1, <sprite name=grail> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theworlddoesnotweep",
+      "Desc": "'Brown' Joshua found this in a well in Hamath. There's an unlikely story that it was abandoned by Alexander during his retreat from Issus.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thedeedsofthescarredcaptain",
+      "Desc": "Painstakingly assembled by the soldier of fortune and sometime remittance man, Pavel Shulga, during his years in Greece.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookofdissolution",
+      "Desc": "Alexander Probst recovered a copy of this work from a mountain-temple in Persia. Other copies surface now and then, usually seared on rock.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.acatalogueofunchartedpleasures",
+      "Desc": "'The Dark Gentleman' is the only, and rather grandiosely, identified author of this often-copied work.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.thosewhodonotsleep",
+      "Desc": "The mystic Brodnax discusses the origins of the Sister-and-Witch, and of the Thunderskin.\r\n\r\n<i>[Upon reading gives <b>Memory: Storm</b> (<sprite name=heart> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theskythesoul",
+      "Desc": "The grand labour of Kalle, an ascetic poet writing at the court of the Shadowless Kings.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.onthematterandthedeedsofserpents",
+      "Desc": "This was probably the 'prophecies of the naga' rendered into English, and illustrated, by 'William Midnight' in Paris in the 1880s; but it shows a number of divergences from that text. It's certainly quite recent by the standards of Vak texts.\r\n\r\n<i>[Upon reading gives <b>Secret Threshold</b> (<sprite name=knock> 2, <sprite name=rose> 1 )]</i>"
+    },
+    {
+      "ID": "t.theserenityoftheblackwood",
+      "Desc": "An allegorical history of the House of Lethe, which it is here implied was inspired by the Centipede. 'Sereno Blackwood' is an occult alias to this day.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookofthrones",
+      "Desc": "A legend of the Shadowless Empire, transcribed by Alexander Peterhans from annals at a secret shrine in Anatolia.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.asecondglory",
+      "Desc": "The priest Juceh celebrates the extirpation of the Gods-who-were-stone, those Hours who preceded humanity.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.bookoftrueblood",
+      "Desc": "Cassius the Thoman reveals the deeds of the Unnumbered Legion, the secret army that protected Rome against the Shadowless Empire.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.theburningwoman",
+      "Desc": "An transcription of the play by Menander the Victor, possibly the dramatist of that name, into Phrygian, with commentaries.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.twentysixenticementsseventorments",
+      "Desc": "The painter Niels Frederik Malskær, notoriously, attempted a series of paintings based on the Torments. By the Fifth Torment, the demands of the painting had grown so dire that he died of blood loss. The diagrams in this text are thankfully less detailed.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.isaacofkarthshistoryoftheshadowlesskings",
+      "Desc": "A True and Accurate History of the Shadowless Kings, by Isaac of Karth.' Isaac describes the thousand-year ascendancy of the Shadowless Empire.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.thehighmysteriesoftheinnermostchamberofourchurchsolar",
+      "Desc": "The secret rites of the Church of the Unconquered Sun, which held power in at least two Histories.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.medusaslament",
+      "Desc": "On the death of the Hour called Seven-Coils, 'the Father of the Mother'.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookofmasks",
+      "Desc": "Athena Vana's work on the rogue Hour called the Vagabond, who is also known as the Laughingthrush, the Centipede, the Pilgrim, and by many other names - or as Vana has it, 'masks'.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed",
+      "Desc": "Ninegala of Lagash describes the secrets to be found in mountains.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.inmemoryofgods",
+      "Desc": "The Barrowchild', a nameless Gaulish adept who joined an organisation identified as the Ordo Limiae, writes regretfully of the destruction of the gods-who-were-stone - the Hours who preceded humanity.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thesevenfoldslayingofthesevencoiled",
+      "Desc": "An account of the destruction of a primaeval Hour, a god-who-was-Stone.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme",
+      "Desc": "A diatribe by Hokobald of Pocsind, formerly of the order of immortals called the House of Lethe (later the Ordo Limiae; much latter the Obliviates). He has scores to settle.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thedreamoftheconspiracyofthelowerskies",
+      "Desc": "The disgraced oracle Damaon Azenaten sifts through the tall tales of Penelope of Gordion, the work of the court poet Kalle and the forbidden fragments of the work of the adept Arrettrez, indentifying common themes.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookofthewhitecat",
+      "Desc": "Stories brought by a blind white cat to Penelope of Gordion.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thelionandtheglass",
+      "Desc": "An early work by Omar the Blaze, a novice or apprentice at the Labyrinth of Lions.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.eachflamehisfuel",
+      "Desc": "A work by Omar, the Blaze, an initiate or craftsmaster at the Labyrinth of Lions.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thefocusofamber",
+      "Desc": "Omar, the Blaze, spent seven years manning a lighthouse in Tyre, in atonement for the extinguishing of a sacred flame. By the end of his stint, he was so terrified of fire that he could not stand to share a room with a candle. This work was written in partial penance.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thesongsofthecarapacecross",
+      "Desc": "Micah Xi, sometimes called the Magus of Quartz, etched this work in acid on stone. It has been reproduced many times in many languages since, but the reproductions are often lost to landslides.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.theoriginsofhours",
+      "Desc": "The sage and ecstatic Soham, a frequent visitor to the Mansus, claimed to have discoursed with the Beachcrow in person. Soham later insisted on a sky-burial.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.wherehasshegone",
+      "Desc": "The Speeth' - perhaps a single adept, perhaps a council of scholars - hypothesises secret events from limited evidence with persuasive accuracy.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.thebookoftheextinguishedheart",
+      "Desc": "In the days of the Shadowless Kings, Ennis Lazali was executed for prophesying the Division of the Sun. If any of his captors grew Long, they probably feel rather abashed now.\r\n\r\n<i>[Upon reading gives <b>Bittersweet Certainty</b> (Sound 1, <sprite name=lantern> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.howtheendwillbegin",
+      "Desc": "A prophecy of the Wars of the Roads, recorded in the Subcontinent in the days before the Great Hooded Princes.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.themannerinwhichthealchemistwasspared",
+      "Desc": "In 1782, Anaël Verdier used this text as the basis for a presentation to the Academy of Sciences in Paris. He was executed in secret the following morning without trial.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.fivecreations",
+      "Desc": "The itinerant scholar Shohei debated five possible origins for humanity with a hooded figure since claimed to be the Beach-Crow. Shohei later claimed that all these accounts had proven false, but the debate was, nevertheless, recorded.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.commandmentsforthepreservationofallthatexists",
+      "Desc": "Black Elie, Damascene Matriarch of the Sisterhood of the Knot, was imprisoned by the emperor Didius Julianus. She reportedly instructed that these secret doctrines be recorded in writing to preserve against their loss. Regrettably, the story goes, Didius Julianus ordered that the work be entombed with her in an unmarked sepulcher.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.thetimeofdivision",
+      "Desc": "In which Amira Zahra prophesies the events later known as the Intercalate, when the Hour called Sun-in-Splendour will be divided.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.amanualfordeparture",
+      "Desc": "The author, who identifies itself as the Jekadu, claims to be one of the Great Hooded Princes of the Land of the River. The style is informal, even chatty.\r\n\r\n<i>[Upon reading gives <b>Secret Threshold</b> (<sprite name=knock> 2, <sprite name=rose> 1 )]</i>"
+    },
+    {
+      "ID": "t.inaamkapigiginlupirgarkiecryppys",
+      "Desc": "In which four enigmatic figures tell the stories they've heard over the years at the Roost, the secret location where the aviform Hours congregate.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thevoyagesofferninshunoforeol",
+      "Desc": "The impossible travels of a sea-captain of the late Phoenician era. Suppressed throughout recorded history: those who read it were said to disappear.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.thescarinthesky",
+      "Desc": "Nyn wrote this, and came to regret it.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.aseventhvoice",
+      "Desc": "Samuel Savage's cycle of comic poems about a band of players who double as footpads seeking a seventh member.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theotherline",
+      "Desc": "One of Samuel Savage's more thoughtful works: an allegorical play about the City Clarity, a city that is also a book, and the sentences which inhabit it.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.anovelmethodforinvocation.contrition",
+      "Desc": "Ingenious and rather beautiful techniques for entreating the Names of the Hours, developed by Rory Morrow, who styled himself 'the Sage-Knight'.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.calicitesupplications",
+      "Desc": "Prayers addressed to the Red Grail by the Sisterhood of the Triple Knot.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.ascitesupplications",
+      "Desc": "Prayers addressed to the Horned-Axe by the Sisterhood of the Triple Knot.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.malachitesupplications",
+      "Desc": "Prayers addressed to the Malachite by the Sisterhood of the Triple Knot.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.thesunslament",
+      "Desc": "The first volume of the meditations of Abbot Thomas of the Abbey of the Black Dove.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thewindsruin",
+      "Desc": "The second volume of the meditations of Abbot Thomas of the Abbey of the Black Dove.\r\n\r\n<i>[Upon reading gives <b>Beguiling Melody</b> (Sound 1, <sprite name=grail> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.themoonsegg",
+      "Desc": "The third and last volume of the meditations of Abbot Thomas of the Abbey of the Black Dove.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theblackbookofbrittany",
+      "Desc": "A volume of ink-lore gifted to St Brandan's by Brian of Brittany, who was made Earl of Cornwall after the Norman Conquest.\r\n\r\n<i>[Upon reading gives <b>Bittersweet Certainty</b> (Sound 1, <sprite name=lantern> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thewhitebookofbrittany",
+      "Desc": "A volume of death-lore gifted to St Brandan's by Brian of Brittany, who was made Earl of Cornwall after the Norman Conquest.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.theredbookofbrittany",
+      "Desc": "A volume of ink-lore gifted to St Brandan's by Brian of Brittany, who was made Earl of Cornwall after the Norman Conquest.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.themirrorofmelancthe",
+      "Desc": "The day-book and dream-journal of Abbess Melancthe, venerated as a saint and respected as an alchemist.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.adescentoftheshell",
+      "Desc": "A treatise on eggs, light, and optics by Abbess Melancthe, dazzlingly illuminated with renderings of the Abbess' visions.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.againstvitruvius",
+      "Desc": "A fourteenth-century treatise on esoteric mechanics and parahydraulics by Abbot Ranulph, best known now as a mason-architect.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.demotucorporumvetitorum",
+      "Desc": "The author rejoices in the name of 'Abelard Hubris', and the title might be translated as 'On the Forbidden Motions of Bodies' - evidently a reference to Newton's 'De Motu Corporem', published some twenty years previously.\r\n\r\n<i>[Upon reading gives <b>Memory: Storm</b> (<sprite name=heart> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.theinstrumentsoftheheart",
+      "Desc": "Sister Isabel, then Precentress of the Abbey-Church of St Brandan's, engages in dialogues with a Heart-long of a kind called 'duendrazon' that has taken partial possession of her body.\r\n\r\n<i>[Upon reading gives <b>Cheerful Ditty</b> (Sound 1, <sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.journalofthomasdewulf",
+      "Desc": "Thomas Dewulf, 2nd Baron Brancrug, was nicknamed 'Baron Silence of Castle Silence' for his taciturn severity - most likely the origin, eventually, of the name 'Hush House'.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.journalofwalterdewulf",
+      "Desc": "Walter Dewulf, 3rd Baron Brancrug, was grandson of Thomas, son of the disgraced Giles, who eloped with 'Pale Hafren'. The Dewulf line might have ended here if the Seneschale Ernestine - by then over eighty - had not managed to reconcile Thomas with a dying Giles.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.apaleladyandaprinceofwines",
+      "Desc": "An anonymous biography of Eva Dewulf, last of the Dewulfs, focused rather salaciously on her personal troubles and intrigues.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.atruehistoryofvalentinedewulf",
+      "Desc": "Written in the third person by Valentine Dewulf. Rarely coherent, though it includes some useful footnotes on falconry and on exotic veterinary medicine.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.annalsofstbrandans",
+      "Desc": "Over a hundred years of the abbey's annals, from 1230 to 1350.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.themostsorrowfulendoftheladynonna",
+      "Desc": "An unauthorised account of the death of Abbess Nonna, written by Eusebia, one of the two sisters accused of having murdered Nonna through 'poisoning and Arts unsanctioned.' Eusebia, awaiting execution, intends to hide this account in her cell...\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.threeflowershaththetree",
+      "Desc": "Ernestine Peterhans records her observations of the growths of trees and flowers around the Isle, and the omens and portents she attempts to draw from them - particularly the yew-tree in Earl Brian's Meadow, whose flowerings are sometimes eccentric.\r\n\r\n<i>[Upon reading gives <b>Memory: Gossip</b> (<sprite name=grail> 1, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.theshadowinthestair",
+      "Desc": "Ernestine Peterhans records her conversations with the 'little darkness' in Hush House's Stair Tenebrous, which she calls 'Donkerling'.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.cucurbitprisonerrecords1927",
+      "Desc": "Accounts by Governor Collers' private secretary of interventions and experiments in the last years of the Cucurbit prison, focusing particularly on prisoners he believes might have Carapace Cross lineage.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.cucurbitprisonerrecords1928",
+      "Desc": "Accounts by Governor Collers' private secretary of interventions and experiments in the last years of the Cucurbit prison, focusing particularly on the 'hill-children', wild Wood-things that have found a shape in the physical world.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.onthewindingstair",
+      "Desc": "Gregory Wheelock, the master mason and architect employed by Walter Dewulf to construct the Winding Stair and the guest chambers in Hush House, describes a more ambitious and dangerous project.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.lettersfromafugitive",
+      "Desc": "Lars Westergren, explorer and murderer, spent seven years escaping justice through his knowledge of byways and shortcuts in the Bounds. Throughout that time he wrote regularly to his daughter, possibly in part to taunt his pursuers.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.perugiandiaries",
+      "Desc": "In 1907, at the age of eighteen, Christopher Illopoly left Strathcoyne's household to study theology at the University of Perugia in Italy, enrolling under the name 'Christopher Strathcoyne'.\r\n\r\n<i>[Upon reading gives <b>Cheerful Ditty</b> (Sound 1, <sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.keyofnight",
+      "Desc": "The deliberations leading to a manifesto of the 'Worms of a Scale', as recorded around 1900 in the Bar Vienna, in the cellar of the Hotel Ciervo in Noon.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.onresonance",
+      "Desc": "Experiments in ithastry by the 'sky-smith' Everett Vinzant.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.enchiridiontragularis",
+      "Desc": "The poison-manual of the order of assassins called the Tragulari.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.therepublicofteeth",
+      "Desc": "An eccentric political tract by Valentine Dewulf.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.sevenfacesoficarus",
+      "Desc": "In the early 1530s, the last Abbot of St Brandan's, called 'Roaring Richard', set down his conversations with the illiterate local cunning-man, Red William.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.onthirstliesivoriesandlovelies",
+      "Desc": "Fionna Ayrshire recounts her visits in dreams to the 'Red Church' in the Mansus, and her conversations with the Names of the Grail.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.bytheirmarksshallyeknowthem",
+      "Desc": "A monster-hunting initiate of the Hour named the Colonel, who identifies herself as 'Little Sophia', provides advice on finding the weak spots of Long.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.oblationsiniron",
+      "Desc": "A Monster-hunting initiate of the Hour named the Colonel, who identifies herself as 'Little Sophia', records the exhibits she has rendered to the Worm Museum in the Mansus.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.propheciesofglory",
+      "Desc": "Religious and patriotic fables collected, or composed, by William Gore.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.ashapeinsmoke",
+      "Desc": "Ambrose Westcott's exposition on tobacco-blending and 'the Oracles of the Pipe.'\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.alightintheinkwell",
+      "Desc": "Musgrave, fourth of the Dewulf line, writes tentatively about the 'Covenant of Brancrug' and the legacy of the sacred inks he calls 'encausta revelationia'.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.itiswritten",
+      "Desc": "Musgrave, fourth of the Dewulf line, writes tentatively about the 'Covenant of Brancrug' and the legacy of the sacred inks he calls 'encausta potentialia'.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.etteryafter",
+      "Desc": "An anonymous erotic novel occasionally claimed to have been written by Eva Dewulf, although at least two duels were fought in her honour to avenge this slander.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.theinvisibleoperaunfinishedrecording",
+      "Desc": "A recording of a 1911 attempt at a performance of 'Wings within Wings', the so-called Invisible Opera.\r\n\r\n<i>[Upon reading gives <b>Cheerful Ditty</b> (Sound 1, <sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.openingthesky",
+      "Desc": "An unusual recording of Verro's 'Opening the Sky', composed for the coronation of the New King, Henry IX. The record bears the Suppression stamp EXPUNGE.\r\n\r\n<i>[Upon reading gives <b>Cheerful Ditty</b> (Sound 1, <sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.lakefucinorecordings",
+      "Desc": "Recordings of the folk-dances of the Fucine Marshes.\r\n\r\n<i>[Upon reading gives <b>Beguiling Melody</b> (Sound 1, <sprite name=grail> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.vinzantsminglings",
+      "Desc": "The metallurgist and 'sky-smith' Everett Vinzant speaks of 'the sacred alloys', 'the alloys eternal', 'the alloys sufficient', 'the alloys intendant'…\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.honeythecomprehensiveguide",
+      "Desc": "Harvey Hattington - pilot, polymath, confectioner - writes with great enthusiasm about the 'marvellous work of the Bee'.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.fekrisherbary",
+      "Desc": "The early wisdom of Ehsan Fekri, at that point a travelling healer, much later the Secretary Salvant of the Curia of the Isle.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.kitlingripestastytreats",
+      "Desc": "The Velvet is the Hour of secrets; and so very little is known of the - Moth-long? Nectar-long? - who ascend to immortality under her auspices. But this book (by 'Kitling's Friend') purports to be part cook-book, and part manual for immortality.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.thebarrowchildselegies",
+      "Desc": "The Barrowchild, a Gaulish adept who won a place in the ranks of the Ordo Limiae, enumerates the 'great shadows' laid to rest in tombs of power, and discusses their various conditions.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.damascenetraditionsofthehouseoflethe",
+      "Desc": "The House of Lethe was an order of immortals who sought obscurity, rejecting their past and future. If the author of this short text is to be believed, the initiates of the Damascene branch were much more radical than their fellows elsewhere.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.exorcismforgirls",
+      "Desc": "Simple but forceful techniques for 'rousting unbefitting spirits', written in straightforward and colourful language.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.singlefootsongs",
+      "Desc": "Father Stanislav John Schaller, priest and diplomat, writes of his time on the slopes of Huashan - 'near to the Grove of the Green Immortals, but never too near.'\r\n\r\n<i>[Upon reading gives <b>Savage Hymn</b> (Sound 1, <sprite name=scale> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.anexorcistsfieldmanual",
+      "Desc": "A practical guide to 'troublesome Dead', grounded in theory but with a clear focus on their disposal, by the redoubtable Detective-Ostiary Wheelock of the Suppression Bureau.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.velletriinterviews",
+      "Desc": "Interrogation of a man named Lacombe, a former Nocturnal Branch inspector now identified as 'terminally robigoid'.\r\n\r\n<i>[Upon reading gives <b>Memory: A Stolen Secret</b> (<sprite name=knock> 1, <sprite name=moon> 2 )]</i>"
+    },
+    {
+      "ID": "t.aninvestigationofafounderedcountry",
+      "Desc": "Subtitled 'Recordings from the Atlantic Coast.'\r\n\r\n<i>[Upon reading gives <b>Memory: A Stolen Secret</b> (<sprite name=knock> 1, <sprite name=moon> 2 )]</i>"
+    },
+    {
+      "ID": "t.recordingsfromthealthibanabyss",
+      "Desc": "Recordings from a subterranean space in the mountains near Baghdad of 'conversations' between the entomologist Juliana Zawistowski and an unidentified presence.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.evastreasury",
+      "Desc": "Eva Dewulf, last of the Brancrugs, discusses the occult and aesthetic properties of jewels and other precious minerals.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.adviceoncontainment",
+      "Desc": "Thirza Blake discusses ways 'to keep Wood-things out of trouble, and Mansus-things in it.'\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.theadmonitoryautomataproject",
+      "Desc": "Footage of experimental devices under development in the Cucurbit under Governor Collers' supervision.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.oldcoppernoseandthesoftermetal",
+      "Desc": "A disgraceful compendium of ribald poetry about the habits and corruptions of Henry VIII.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.notesonbindings",
+      "Desc": "Gideon Dewulf, 5th Baron Brancrug, discusses techniques shared between medical suturing, tailoring, and - carefully, allusively - the binding of restless spirits.\r\n\r\n<i>[Upon reading gives <b>Memory: Solace</b> (<sprite name=heart> 2, <sprite name=sky> 1 )]</i>"
+    },
+    {
+      "ID": "t.huntingjournalsofbryandewulf",
+      "Desc": "Bryan Dewulf, the son of the 3rd Baron Brancrug, gives advice on hunting in the Bounds.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.toapalelady",
+      "Desc": "A collection of Franklin Bancroft's letters to Eva Dewulf.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.thebeekeepersends",
+      "Desc": "Dialogues with bees and uses for honey, as erratically recorded by Ricardo Milagro, gardener of Hush House in Musgrave's time.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.warmingdraughtstouplifttheheart",
+      "Desc": "A wonderful compendium of healing tisanes compiled by Natan of Regensburg.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.ajourneytothegrove",
+      "Desc": "Black Elie, who much later became Damascene Matriarch of the Sisterhood of the Knot, recounts her journey to the Grove of Green Immortals.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.thehissingkey",
+      "Desc": "An account of the ascent of the Hour called the Mother of Ants, by the Bosk-scholar Mek, of the Theban branch of the House of Lethe.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.musgravessketches",
+      "Desc": "Musgrave, 4th Baron Brancrug, was widely mocked as 'the Bleating Baron' and 'the Lamb Dewulf', but these sketches reveal a complex, sombre inner life.\r\n\r\n<i>[Upon reading gives <b>Bittersweet Certainty</b> (Sound 1, <sprite name=lantern> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.ambrosial!",
+      "Desc": "Ambrose Westcott's inventive - one might say pioneering, or indeed buccaneering - essays into kitchencraft.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.exercisesinthecontinuityofself",
+      "Desc": "Techniques proposed by the Haustorium - the most inaccessible and upsetting of the libraries of the Watchman's Tree - for 'the persistence of memory after the body is discarded'.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.theamalgamoftheredrose",
+      "Desc": "An account by 'Mistress Red-Flower' of the alchemical operations favoured by the House of Lancaster, also identified with the 'Sunset Road'. These operations ultimately led to their victory in the War of the Roads, but are described as 'now debased'.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.ladyevasrepose",
+      "Desc": "A 'meditation' on the drowning of Lady Eva Dewulf and her two grandchildren, written in the years when the estate was abandoned by Father Theo, once the Dewulf family chaplain, one of the few to remain on the Isle in those desolate years.\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.operationsofacertainfinality",
+      "Desc": "Subtitled 'The Hammer's Sundering'. The work of an anonymous adept who violently despised the Invisible Serapeum, the library of the Watchman's Tree in Alexandria.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thealloyofthewhiterose",
+      "Desc": "An account by 'Mistress White-Flower' of the alchemical techniques favoured by the House of York, also identified with the 'Dawn Road'. These techniques failed to bring them victory in the War of the Roads, but are 'not to be discounted'.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.udrocashaas",
+      "Desc": "An anonymous confessional account of unsanctioned activities by the nuns of St Brandan's. The title is a Henavek phrase that might be translated as 'the spirit flees the shadowed places.'\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.unhatchedhymns",
+      "Desc": "Hymns attributed to Saint Lucia the Eyeless, patron of glassworkers and Name of the Hour called Meniscate.\r\n\r\n<i>[Upon reading gives <b>Savage Hymn</b> (Sound 1, <sprite name=scale> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.anechoofsilence",
+      "Desc": "A very heterodox history of the House of Lethe as recorded by 'the Serenity' - a Lethean adept who declares that the House of Lethe was created explicitly to prevent the ascension of any more mortals to Name or Hour status.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.observationsonthepeacockdoor",
+      "Desc": "Ninegala of Lagash discusses the Peacock Door, the highest door available to mortals in the Mansus: 'a rent, an imperfection, an abrasion.'\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.theascendant",
+      "Desc": "The Edge-long Dardesh boasts of her victories over her brother-enemy Tareg in the days of the Shadowless Empire.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.thethreeandthethreekerishammanuscript",
+      "Desc": "A more recent version of a much older text, this book describes the operations of the Chancel and the Calyptra, two triads of Hours with subtle, far-reaching powers and responsibilities. It has been heavily censored, but even so contains potent secrets.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.thethreeandthethreevaticanmanuscript",
+      "Desc": "A Church-authorised version of an older text, this book describes the Chancel and the Calyptra, two triads of Hours with subtle, far-reaching powers and responsibilities. It has clearly been reworked to fit Church doctrine.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.theothereyeoftheserpent",
+      "Desc": "In which the heresiarch Cygnifer attempts to resolve certain mysteries of Lightning.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.onimperfections",
+      "Desc": "Poemander, light-smith and Lantern-long, describes the process of 'transinhabitation', which he calls 'a manifestation of imperfection.'\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.thesecretcolours",
+      "Desc": "Black Elie, disgraced Damascene Matriarch of the Sisterhood of the Triple Knot, wrote this while fleeing the 'agents of the Duty.'\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.deathsandtheirevasions",
+      "Desc": "Father Stanislav John Schaller writes of the means and limitation of passage between the orders of the Mansus - Know, Long, Names, Hours. Unusually, Father John has written this book in Fucine - for, he says, especial secrecy.\r\n\r\n<i>[Upon reading gives <b>Memory: A Stolen Secret</b> (<sprite name=knock> 1, <sprite name=moon> 2 )]</i>"
+    },
+    {
+      "ID": "t.atowerfalls",
+      "Desc": "The phonograph is packaged in glossy amethyst purple card with the words A TOWER FALLS in nine languages on both sides. There is no other identifying information at all.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.atowerrises",
+      "Desc": "The phonograph is packaged in glossy card the bright pink of a dog-rose, with the words A TOWER RISES in nine languages on both sides. There is no other identifying information at all.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.thechandlerswish",
+      "Desc": "Formulae and instructions invoking Moth, Lantern and - exceptionally, paradoxically - the liminal and theoretical Hour called the Chandler. The author is anonymous, admitting only that they are 'one who is not yet nameless.'\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.sunsetceliaandtheendofdays",
+      "Desc": "An Obliviate adept identified only as 'the Emiliano' rants desperately about the part Sunset Celia played in the Intercalate, as 'the proxy of the Sun'. \r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thecarminepetalrevised",
+      "Desc": "An apparently theoretical project proposed by 'Lionel' of the Society of the Noble Endeavour which might permit the imprisonment of a renegade Forge-Name. A very heavily revised edition of an earlier and even more controversial work.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.thecarminepetalunexpurgated",
+      "Desc": "A project proposed by 'Lionel' of the Society of the Noble Endeavour by which, he claims, he succeeded in creating a sanctuary for a fugitive Forge-Name. The unexpurgated version.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    },
+    {
+      "ID": "t.letterstomysuccessor",
+      "Desc": "Advice from Gervinus van Lauren, eleventh Librarian of Hush House, to the one who will come after him.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.fromhistorytoeternity",
+      "Desc": "A contraband manual of the Inks of Revelation. The author explains in a brief foreword that she is a high-ranking officer of 'an agency of the Duties' and that, though she supports its mission, she has concerns about the long-term consequences of its work.\r\n\r\n<i>[Upon reading gives <b>Memory: Intuition</b> (<sprite name=moon> 2, <sprite name=rose> 2 )]</i>"
+    },
+    {
+      "ID": "t.nynscagesavignontext",
+      "Desc": "The 'merciful measures' of the witch Nyn.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.nynscagesbrugestextilluminated",
+      "Desc": "The 'merciful measures of the witch Nyn. This is only a partial version of the original, but it contains illustrations by Nyn's pupil, Mabelie of Bruges, which supplement the original.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.experimentbeyondsight",
+      "Desc": "Ilse Bischoff's bewildering, widely derided final film.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.coloursintheliver",
+      "Desc": "Ilse Bischoff's most controversial film, blamed for outbreaks of cannibalistic killings in Tiflis and Leipzig.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.theopenhead",
+      "Desc": "Ilse Bischoff's hallucinatory quasi-documentary, notionally about the Greco-Turkish War of the previous decade.\r\n\r\n<i>[Upon reading gives <b>Memory: Revelation</b> (<sprite name=lantern> 2 )]</i>"
+    },
+    {
+      "ID": "t.thedeathsofthemoon",
+      "Desc": "A Haustorial tract on various forms of survival after death.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.thequeensturn",
+      "Desc": "A sixteenth-century translation of the Barrowchild's account of 'Lagiah's Turn' - when Lagiah, the Queen Unsated, was offered the opportunity to enter the service of the Hours of the Triple Knot, as long as she repudiated her brother-lover Antaios.\r\n\r\n<i>[Upon reading gives <b>Memory: Salt</b> (<sprite name=knock> 1, <sprite name=moon> 1, <sprite name=winter> 1 )]</i>"
+    },
+    {
+      "ID": "t.skinofsilver",
+      "Desc": "The epic of the final battle of the Lionsmith with the remnant-giant Antaios.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.onethousandthreads",
+      "Desc": "The fate-supplications of the Matriarch of the Well, recorded by in darkness by her weavers and her daughters…\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.thecarbonekschism",
+      "Desc": "The order of Obliviates, on the brink of schism, assembles in a Bounds-house identified only as 'Carbonek', after the Fisher-King's castle of legend. There the Know and the Long of the order debate their long policy of non-involvement in 'matters of Feather and Scale'.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thewoundwounds",
+      "Desc": "'A history of a hundred wars', sewn into a design of metallic threads that pursues itself across every page...\r\n\r\n<i>[Upon reading gives <b>Memory: Regret</b> (<sprite name=forge> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.glimmerings",
+      "Desc": "An anonymous prison diary written by a dreamer convicted of 'oneiric irresponsibility' and confined to the Cucurbit.\r\n\r\n<i>[Upon reading gives <b>Bittersweet Certainty</b> (Sound 1, <sprite name=lantern> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.thewonderfulshape",
+      "Desc": "Blessings and invocations of the Triple Knot recorded at a sanctuary in Cyprus notable for its weavers, sculptors, and gardeners.\r\n\r\n<i>[Upon reading gives <b>Memory: Satisfaction</b> (<sprite name=grail> 2, <sprite name=heart> 1 )]</i>"
+    },
+    {
+      "ID": "t.thegrandpassageofthehours",
+      "Desc": "The Limian Burzghash's gazetteer of the patterns and rhythms of the Hours' progress through the Mansus, from Concursum to Malleary, Malleary to Wood…\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.themessengerawaitingherdestination",
+      "Desc": "The Limian Burzghash records his prophecies of a City Unbuilt, and entreaties to its Herald.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.theroadtojanus",
+      "Desc": "The Limian Burzghash makes a series of prophecies regarding 'the Initiates of the House of Silence', with intricate, if unhelpful, predictions on their passage through the House.\r\n\r\n<i>[Upon reading gives <b>Memory: Pattern</b> (<sprite name=forge> 1, <sprite name=knock> 2 )]</i>"
+    },
+    {
+      "ID": "t.greenjaspertablet",
+      "Desc": "Supposedly copied from a tablet of green jasper which serves as the Covenant-stone of the Monastery of the Fifth Cup - the token which gives that Library shelter beneath the Watchman's Tree.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.whitejadetablet",
+      "Desc": "Supposedly copied from a tablet of white jade which serves as the Covenant-stone of the Grove of the Green Immortals - the token which gives that Library shelter beneath the Watchman's Tree.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.xenodiceneodes",
+      "Desc": "Poetry attributed to Xenodice, Name of the Horned-Axe.\r\n\r\n<i>[Upon reading gives <b>Confounding Parable</b> (<sprite name=moon> 2, <sprite name=rose> 2, <sprite name=sky> 2 )]</i>"
+    },
+    {
+      "ID": "t.quirinicmeditations",
+      "Desc": "Battle-apothegms of the Name Quirinus.\r\n\r\n<i>[Upon reading gives <b>Memory: Contradiction</b> (<sprite name=edge> 2, <sprite name=moon> 1 )]</i>"
+    },
+    {
+      "ID": "t.medusancommentaries",
+      "Desc": "Haustorial discussions of Medusa's histories.\r\n\r\n<i>[Upon reading gives <b>Memory: Fear</b> (<sprite name=edge> 1, <sprite name=scale> 2 )]</i>"
+    },
+    {
+      "ID": "t.echidnalia",
+      "Desc": "Part genealogy, part taxonomy, part family gossip - a closely detailed, highly specialised account of one branch of the complex brood of children associated with the Ligeian Echidna.\r\n\r\n<i>[Upon reading gives <b>Memory: Impulse</b> (<sprite name=moth> 2, <sprite name=nectar> 1 )]</i>"
+    },
+    {
+      "ID": "t.naeniansketches",
+      "Desc": "Travelogues and studies exchanged by raggies and ghouls - that is, the Long who've ascended under the patronage of the Sun-in-Rags and those who won the attention of the Elegiast.\r\n\r\n<i>[Upon reading gives <b>Memory: Hindsight</b> (<sprite name=scale> 1, <sprite name=winter> 2 )]</i>"
+    },
+    {
+      "ID": "t.plantagenetmysteries",
+      "Desc": "Exhaustive attempts to analyse and renew the Blood of the Sun by one of the numerous occult societies, after the manner of the Endeavour Club, for whatever squalid political motive.\r\n\r\n<i>[Upon reading gives <b>Memory: Foresight</b> (<sprite name=forge> 2, <sprite name=lantern> 1 )]</i>"
+    }
+  ]
+}
