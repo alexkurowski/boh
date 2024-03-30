@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>BOH</title>
-    <meta name="viewport" content="width=1280, initial-scale=1" />
+    <meta name="viewport" content="width=800, initial-scale=1" />
     <style>
       details summary {
         display: inline-block;
@@ -36,6 +36,7 @@
       td {
         padding: 2px 4px;
         border: 1px solid black;
+        transition: background 0.3s;
       }
 
       #mem_table td:nth-child(1),
@@ -63,6 +64,10 @@
       th:hover {
         background: #c5dcf2;
         cursor: pointer;
+      }
+
+      table tr.highlight td {
+        background: #afdef5;
       }
     </style>
   </head>
@@ -6433,6 +6438,24 @@
           tr = Array.prototype.slice.call(tb.rows, 0), // put rows into array
           i;
         reverse = -(+reverse || -1);
+        if (col > 3) {
+          // Sort by aspect, level, and memory
+          tr = tr.sort(function (a, b) {
+            var valA = a.cells[1].textContent.trim() || "0";
+            var valB = b.cells[1].textContent.trim() || "0";
+            return valA.localeCompare(valB);
+          });
+          tr = tr.sort(function (a, b) {
+            var valA = a.cells[2].textContent.trim() || "0";
+            var valB = b.cells[2].textContent.trim() || "0";
+            return valA.localeCompare(valB);
+          });
+          tr = tr.sort(function (a, b) {
+            var valA = a.cells[3].textContent.trim() || "0";
+            var valB = b.cells[3].textContent.trim() || "0";
+            return valA.localeCompare(valB);
+          });
+        }
         tr = tr.sort(function (a, b) {
           // sort rows
           var valA = a.cells[col].textContent.trim() || "0";
@@ -6480,6 +6503,78 @@
       }
 
       makeAllSortable(document.body);
+    </script>
+
+    <script>
+      function hash(str) {
+        if (str.length === 0) return "0";
+        var hash = 0;
+        var chr = 0;
+        for (var i = 0; i < str.length; i++) {
+          chr = str.charCodeAt(i);
+          hash = (hash << 5) - hash + chr;
+          hash |= 0;
+        }
+        return Math.abs(hash).toString();
+      }
+
+      var rows = [];
+      var initialRows = localStorage.getItem("boh_hl");
+      if (typeof initialRows === "string") {
+        try {
+          rows = JSON.parse(initialRows);
+        } catch (e) {
+          console.log(e);
+          rows = [];
+        }
+      }
+
+      function toggleHighlight(tr, isInitial) {
+        var td = tr.querySelector("td");
+        if (!td || !td.textContent) return;
+        var key = hash(td.textContent.trim());
+
+        var isHighlighted = rows.includes(key);
+        if (isInitial) {
+          if (isHighlighted) {
+            tr.classList.add("highlight");
+          } else {
+            tr.classList.remove("highlight");
+          }
+        } else {
+          if (isHighlighted) {
+            rows = rows.filter((row) => row !== key);
+            tr.classList.remove("highlight");
+          } else {
+            rows.push(key);
+            tr.classList.add("highlight");
+          }
+          localStorage.setItem("boh_hl", JSON.stringify(rows));
+        }
+      }
+
+      function makeHighlightable(table) {
+        var trs = table.querySelectorAll("tbody tr");
+        for (var i = 0; i < trs.length; i++) {
+          toggleHighlight(trs[i], true);
+        }
+        for (var i = 0; i < trs.length; i++) {
+          trs[i].addEventListener("click", function (event) {
+            var tr = event.target.closest("tr");
+            console.log({ tr });
+            toggleHighlight(tr);
+          });
+        }
+      }
+
+      function makeAllHighlightable(parent) {
+        parent = parent || document.body;
+        var t = parent.getElementsByTagName("table"),
+          i = t.length;
+        while (--i >= 0) makeHighlightable(t[i]);
+      }
+
+      makeAllHighlightable(document.body);
     </script>
   </body>
 </html>
